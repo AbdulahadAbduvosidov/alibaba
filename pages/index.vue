@@ -4,7 +4,7 @@
   <main class="bg-[#eff6ff] h-[3780px]">
     <div class="container mx-auto 2xl:pt-[20px]">
       <div class="bg-white 2xl:p-5 2xl:flex 2xl:pt[-20px] overflow-hidden 2xl:pb-[20px] 2xl:gap-[30px] pt-[20px] flex pb-[20px] gap-[27px]">
-        <div class="w-[250px] ml-[14px] 2xl:w-[300px] 2xl:flex">
+        <div class="w-[250px] ml-[14px] 2xl:w-[300px]">
           <p class="pt-[15px] h-[55px] text-[20px] hover:bg-[#E5F1FF] hover:font-bold rounded-[6px] pl-[10px]">Automobiles
           </p>
           <p class="pt-[15px] h-[55px] text-[20px] hover:bg-[#E5F1FF] hover:font-bold rounded-[6px] pl-[10px]">Clothes and
