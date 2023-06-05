@@ -1,11 +1,10 @@
 <template>
-  
   <Header2 />
   <hr>
   <main class="bg-[#eff6ff] h-[3780px]">
-    <div class="container mx-auto pt-[20px]">
-      <div class="bg-white pt-[20px] flex pb-[20px] gap-[27px]">
-        <div class="w-[250px] ml-[14px]">
+    <div class="container mx-auto 2xl:pt-[20px]">
+      <div class="bg-white 2xl:p-5 2xl:flex 2xl:pt[-20px] overflow-hidden 2xl:pb-[20px] 2xl:gap-[30px] pt-[20px] flex pb-[20px] gap-[27px]">
+        <div class="w-[250px] ml-[14px] 2xl:w-[300px] 2xl:flex">
           <p class="pt-[15px] h-[55px] text-[20px] hover:bg-[#E5F1FF] hover:font-bold rounded-[6px] pl-[10px]">Automobiles
           </p>
           <p class="pt-[15px] h-[55px] text-[20px] hover:bg-[#E5F1FF] hover:font-bold rounded-[6px] pl-[10px]">Clothes and
@@ -220,7 +219,7 @@
           <div class="w-[362px] h-[270px] bg-white mt-[24px] rounded-[8px]">
             <img class="bg-[#374151] h-[160px] rounded-t-[6px]" src="../public/images/service3.png" alt="" />
             <p class="text-[20px] mt-[25px] ml-[30px] font-medium">
-              Fast, reliable shipping<br/>by ocean or air
+              Fast, reliable shipping<br />by ocean or air
             </p>
             <div
               class="border-white border-[3px] mt-[-120px] ml-[250px] absolute bg-[#D1E7FF] w-[80px] h-[80px] rounded-full flex justify-center items-center">
@@ -230,7 +229,7 @@
           <div class="w-[362px] h-[270px] bg-white mt-[24px] rounded-[8px]">
             <img class="bg-[#374151] h-[160px] rounded-t-[6px]" src="../public/images/service4.png" alt="" />
             <p class="text-[20px] mt-[25px] ml-[30px] font-medium">
-              Product monitoring<br/>and Inspection
+              Product monitoring<br />and Inspection
             </p>
             <div
               class="border-white border-[3px] mt-[-120px] ml-[250px] absolute bg-[#D1E7FF] w-[80px] h-[80px] rounded-full flex justify-center items-center">

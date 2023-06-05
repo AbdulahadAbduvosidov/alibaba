@@ -29,7 +29,7 @@
               <p>Verified only</p>
               <button
                 class="ml-[20px] mr-[13px] flex items-center justify-between border w-[180px] h-[42px] rounded-[6px] pr-[16px] pl-[10px]">
-                Featured <img src="../../public/icons/str.png" alt="" />
+                Featured <img src="../../public/icons/down.svg" alt="" />
               </button>
               <p class="rounded-l-[6px] bg-[#DEE2E7] flex items-center border justify-center h-[42px] w-[40px]">
                 <img class="w-[20px] h-[20px]" src="../../public/icons/kubik.svg" alt="" />
