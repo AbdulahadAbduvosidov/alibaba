@@ -182,7 +182,7 @@
                         </button>
                         <div class="flex gap-[8px] mt-[20px] mb-[20px] justify-center">
                             <img class="w-[50px] h-[40px]" src="../../public/icons/americanE.svg" alt="" />
-                            <img class="w-[50px] h-[40px]" src="../../public/icons/mastercard.svg" alt="" />
+                            <img class="w-[50px] h-[40px]" src="../../public/icons/masterCard.svg" alt="" />
                             <img class="w-[50px] h-[40px]" src="../../public/icons/paypal.svg" alt="" />
                             <img class="w-[50px] h-[40px]" src="../../public/icons/visa.svg" alt="" />
                             <img class="w-[50px] h-[40px]" src="../../public/icons/applePay.svg" alt="" />
